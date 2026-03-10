@@ -217,4 +217,4 @@ This project is open-source and available for educational purposes.
 
 ## 👨‍💻 Author
 
-Created as part of a **Python programming assessment focused on loops and basic algorithms**.
+Name : Letsoenyo Clen Bongane
